@@ -70,3 +70,4 @@ Editace souboru na větvi 10.x
 Editace souboru na větvi feature
 
 Editace souboru na větvi feature
+Editace souboru na větvi 10.x
